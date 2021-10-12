@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filipe
 - 👀 I’m interested in Data Science, Manufacturing, Automotive
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science projects related to my interests. 
+- 💞️ I’m looking to collaborate on Data Science projects related to the mentioned interests. 
 - 📫 How to reach me m20200655@novaims.unl.pt
 
 <!---
